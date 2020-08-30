@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913153388055",
+    "firebase_url": "https://homeshare-ec2c8.firebaseio.com",
+    "project_id": "homeshare-ec2c8",
+    "storage_bucket": "homeshare-ec2c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913153388055:android:aceade80fc8f5ec52b7652",
+        "android_client_info": {
+          "package_name": "com.maas_homeshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913153388055-f0ehli68qkimouulbqlmni9690rs600q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maas_homeshare",
+            "certificate_hash": "94d90bf86c3680ac47b6d0e21d0bf205eaecf757"
+          }
+        },
+        {
+          "client_id": "913153388055-e13v6aaf0rratah0p604phdvt4cm7oe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRou3s8wOeJpihnp5pZI8lZ9HXwzt7glQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913153388055-e13v6aaf0rratah0p604phdvt4cm7oe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
