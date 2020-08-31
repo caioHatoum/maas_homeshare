@@ -1,7 +1,7 @@
 
 class HomeModel {
     returnText = () =>{
-        return "Text";
+        return("Text");
     };
 }
 
